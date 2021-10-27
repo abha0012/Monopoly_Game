@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603786509 source:c:\users\dell\desktop\monopoly\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
